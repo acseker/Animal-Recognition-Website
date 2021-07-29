@@ -1,1 +1,1 @@
-# animal-recognition-website-api
+# Animal Recognition Website
