@@ -1,7 +1,7 @@
 # Animal Recognition Website Application
 
 This project is a website application of 16 different animal recognition.
-The system contains two parts: designing a website, training a Convolutional 
+The system contains three steps: designing a website, training a Convolutional 
 Neural Network (CNN) network, and making connections between the website and trained CNN.
 
 First, a basic website is designed, containing 16 different animal images to 
